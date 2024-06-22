@@ -32,11 +32,10 @@ Task 4: Data Obfuscation
 - Test LR with obfuscated data and compare RMSE and R² metrics with the original data.
 
 ## Libraries
-- scikit-learn: For kNN, scaling, and dummy model implementation.
+- Scikit-learn: For kNN, scaling, and dummy model implementation.
 - NumPy: For matrix operations and linear algebra computations.
-- pandas: For data manipulation and preprocessing.
+- Pandas: For data manipulation and preprocessing.
 - Matplotlib: For data visualization
-
 
 ## Conclusion
 Findings from Customer Profiling
