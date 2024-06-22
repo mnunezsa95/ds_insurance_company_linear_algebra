@@ -1,9 +1,9 @@
 # Sure Tomorrow Insurance Company Machine Learning Integration
 ## Overview
-In the realm of contemporary business, the Sure Tomorrow insurance company stands at the precipice of innovation, poised to leverage the capabilities of Machine Learning (ML) to address an array of challenges. Entrusted with the task of evaluating the feasibility of integrating ML into the company's operations, we embark on a journey that encompasses a spectrum of objectives aimed at optimizing processes and enriching customer experiences.
+In the realm of contemporary business, the Sure Tomorrow insurance company stands at the precipice of innovation, poised to leverage the capabilities of Machine Learning (ML) to address an array of challenges. Entrusted with the task of evaluating the feasibility of integrating ML into the company's operations, the is to encompass a spectrum of objectives aimed at optimizing processes and enriching customer experiences.
 
 ## Description
-The project is designed to assess how Sure Tomorrow can incorporate ML to enhance various aspects of its operations. We aim to tackle four main tasks:
+The project is designed to assess how Sure Tomorrow can incorporate ML to enhance various aspects of its operations. The aim is to tackle four main tasks:
 
 1. Customer Profiling: Identifying customers similar to a specified profile using ML algorithms to enhance targeted marketing strategies.
 2. Benefit Prediction: Predicting the likelihood of a customer receiving insurance benefits through advanced predictive models.
